@@ -9,3 +9,9 @@ This allows users to model the effects of different initial angular displacement
 
 
 
+![](images/120degreesPlot.png)
+
+
+
+
+
